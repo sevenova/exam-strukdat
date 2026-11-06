@@ -37,7 +37,7 @@ public class Main {
         System.out.println();
 
         // Uji batas dan demonstrasi hapus node tengah
-        System.out.println("=== TAMBAHAN: uji batas & hapus node tengah ===\n");
+        System.out.println("=== Uji batas & hapus node tengah ===\n");
         System.out.println("[Ekstra 1] hapusSaatIni() - kunjungan #3 dianggap salah input");
         riwayat.hapusSaatIni();
         riwayat.tampilkanSaatIni();
